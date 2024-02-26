@@ -6,3 +6,18 @@ h1{
     background-color: aquamarine;
     width: 300px;
 }
+
+.header{
+    display: flex;
+    background-color: #ccc;
+}
+
+.logo{
+    width: 50px;
+    background-color: pink;
+}
+
+.menu{
+    width: 30%;
+    background-color: blue;
+}
